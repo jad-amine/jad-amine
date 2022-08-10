@@ -20,7 +20,7 @@
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Firebase" width="20px" src="./pics/firebase.svg" style="padding-right:10px;" />
 <img align="left" alt="Electron" width="30px" src="./pics/electron.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:8px;" />
+<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:6px;" />
 <img align="left" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/>
 <img align="left" width="30px" src="./pics/laravel.svg" style="padding-right:10px;"/>
 <img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
