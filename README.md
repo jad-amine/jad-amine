@@ -9,6 +9,7 @@
 
 ### Languages and Tools:
 
+<div>
 <img align="left" alt="IBM Cloud" width="26px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
 <img align="left" alt="Google" width="26px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/344/tableau-software.png" style="padding-right:10px;"/>
@@ -27,9 +28,13 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+</div>
 
-<br><br>
+<br>
+<br>
 
+<div>
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/cute-clipart/344/console.png" style="padding-right:10px;"/>
 <img align="left" alt="R-Studio" width="26px" src="https://img.icons8.com/fluency/344/rstudio.png" />
+</div>
