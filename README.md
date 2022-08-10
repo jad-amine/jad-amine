@@ -36,15 +36,15 @@
 <a href="https://nodejs.org/en/">
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /></a>
 <a href="https://www.electronjs.org/">
-<img align="left" alt="Electron.js" width="26px" src="./jad-amine Github profile/electron.svg" style="padding-right:10px;" /></a>
+<img align="left" alt="Electron.js" width="26px" src="./jad-amine Github profile/electron.png" style="padding-right:10px;" /></a>
 <a href="https://firebase.google.com/">
-<img align="left" alt="Firebase" width="24px" src="./jad-amine Github profile/firebase.svg" style="padding-right:10px;" /></a>
+<img align="left" alt="Firebase" width="24px" src="./jad-amine Github profile/firebase.png" style="padding-right:10px;" /></a>
 <a href="https://www.mongodb.com/">
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:5px;" /></a>
 <a href="https://www.php.net/">
 <img align="left" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:12px;"/></a>
 <a href="https://laravel.com/">
-<img align="left" width="26px" src="./jad-amine Github profile/Laravel.svg" style="padding-right:10px;"/></a>
+<img align="left" width="26px" src="./jad-amine Github profile/Laravel.png" style="padding-right:10px;"/></a>
 <a href="https://www.mysql.com/">
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /></a>
 <a href="https://git-scm.com/">
