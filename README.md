@@ -9,8 +9,6 @@
 
 ### Languages and Tools:
 
-### Languages and Tools:
-
 <img align="left" alt="IBM Cloud" width="26px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
 <img align="left" alt="Google" width="26px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="26px" src="https://img.icons8.com/color/344/tableau-software.png" style="padding-right:10px;"/>
