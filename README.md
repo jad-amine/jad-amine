@@ -24,7 +24,7 @@
 <img align="left" alt="Electron" width="30px" src="./pics/electron.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:6px;" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;"/>
+<img align="left" width="40px" src="./pics/php.svg" style="padding-right:10px;"/>
 <img align="left" width="30px" src="./pics/laravel.svg" style="padding-right:10px;"/>
 </div>
 
