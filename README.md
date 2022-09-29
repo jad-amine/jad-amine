@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Developer, and Sports Addict!!
 
-- 🌱 Junior Full Stack Developer.
+- 🌱 Full-Stack Mobile & Web Developer.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Learn more about web3.
 - ⚡ Fun fact: I practice all kinds of sports including Parkour & Free running.
