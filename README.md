@@ -9,15 +9,15 @@
 
 ### Languages and Tools:
 
-<div>
-<img align="left" alt="aws" width="30px" src="./pics/aws.svg" style="padding-right:10px; padding-top:12px" />
-<img align="left" alt="IBM Cloud" width="30px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
-<img align="left" alt="Google" width="30px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
+<div style='display: flex; align-items: center;'>
+<img align="left" alt="aws" width="30px" src="./pics/aws.svg" style="padding-right:10px;" />
+<img align="left" alt="IBM Cloud" width="32px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
+<img align="left" alt="Google" width="32px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/344/tableau-software.png" style="padding-right:10px;"/>
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Dart" width="29px" src="./pics/Dart.svg" style="padding-right:10px;" />
-<img align="left" width="40px" src="./pics/php.svg" style="padding-right:10px;"/>
+<img align="left" width="42px" src="./pics/php.svg" style="padding-right:10px;"/>
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;" />
 <img align="left" alt="R-Studio" width="30px" src="https://img.icons8.com/fluency/344/rstudio.png" />
 <img align="left" style="padding-right:10px;" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />    
