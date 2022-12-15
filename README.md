@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="aws" width="30px" src="./pics/aws.svg" style="padding-right:10px; padding-top:8px" />
+<img align="left" alt="aws" width="30px" src="./pics/aws.svg" style="padding-right:10px; padding-top:12px" />
 <img align="left" alt="IBM Cloud" width="30px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
 <img align="left" alt="Google" width="30px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/344/tableau-software.png" style="padding-right:10px;"/>
@@ -26,7 +26,6 @@
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" width="30px" src="./pics/laravel.svg" style="padding-right:10px;"/>
 <img align="left" alt="Firebase" width="20px" src="./pics/firebase.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 </div>
 
 <br>
@@ -34,6 +33,7 @@
 <br>
 
 <div>
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:6px;" />
 <img align="left" alt="Electron" width="30px" src="./pics/electron.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
