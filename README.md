@@ -2,15 +2,15 @@
 
 ## I'm a Husband, Developer, and Sports Addict!!
 
-- 🌱 Full-Stack Web & Mobile Developer.
+- 🌱 Web & Mobile Developer.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2022 Goals: Learn more about web3.
-- ⚡ Fun fact: I practice all kinds of sports including Parkour & Free running.
+- ⚡ Fun fact: I practice all kinds of X-treme sports including Parkour & Free running.
 
 ### Languages and Tools:
 
-<div style='display: flex; align-items: center;'>
-<img align="left" alt="aws" width="30px" src="./pics/aws.svg" style="padding-right:10px;" />
+<div>
+<img align="left" alt="aws" width="30px" src="./pics/logos_aws.png" style="margin-top:8px;padding-right:10px;" />
 <img align="left" alt="IBM Cloud" width="32px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
 <img align="left" alt="Google" width="32px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/344/tableau-software.png" style="padding-right:10px;"/>
