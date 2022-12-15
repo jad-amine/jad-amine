@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 <div>
-<img align="left" alt="AWS" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;"/>
+<img align="left" alt="AWS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="padding-right:10px;"/>
 <img align="left" alt="IBM Cloud" width="32px" src="https://img.icons8.com/color/344/ibm.png" style="padding-right:10px;"/>
 <img align="left" alt="Google" width="32px" src="https://img.icons8.com/clouds/344/google-logo.png" style="padding-right:10px;"/>
 <img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/344/tableau-software.png" style="padding-right:10px;"/>
