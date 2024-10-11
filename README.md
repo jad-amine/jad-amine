@@ -1,6 +1,6 @@
 # Hi there, I'm Jad 👋
 
-## I'm a Husband, Developer, and Sports Addict!!
+## I'm a Father, Husband, Developer, and Sports Addict!!
 
 - 🌱 Web & Mobile Developer.
 - 👯 I’m looking to collaborate with other developers.
